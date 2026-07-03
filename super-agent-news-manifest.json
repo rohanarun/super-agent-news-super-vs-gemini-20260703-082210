@@ -1,0 +1,28 @@
+{
+  "citations": [
+    "[techcrunch.com](https://news.google.com/rss/articles/CBMingFBVV95cUxNTDVKblBucGxXMUtkNXZjWk5raElhdjZsUUE5SFZqcGVsU1k0RDJHd1lMZjQ2YTIyeEFWT2l2dmV5UDY0TFB3RmZwWm02X00ySm5iSFlJSUxGbUFweGdEX3FwTjRlNUJsU0tORERWUTRtSmlQVzBLakFLX2FabGJtRUdaWFhxX1RZYzFBdlJtd2ZUOXQzX3dGcV9vT1REQQ?oc=5)",
+    "[macrumors.com](https://news.google.com/rss/articles/CBMiekFVX3lxTFBCZmRNS1JEbVJzdFA2MVFwb0FKWUU4MWpPTnkzTW12bGo5dllCZ2puamlqUXlDal9udzBWajRzVWFSN1YwMFpYLS1DN1dSNlNqRVc3QzZ1ajVKQklyb3RicExuWTgxQ0k4VXVScGdSUFBqajlDRkRGY013?oc=5)",
+    "[pcmag.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxPTVFPc0psOFJKajlqMGRpTHcxeUVSUWREQlBQbXNOam5pUW4yY2RQeEZoV3UzTmxWQ0JLRTRTejRBMGJsZmRyUUZrUXBPbThGQVFyN05BOGI3WnJSS01zNFhqejVXcmpjMDVBRWVMc2I3UHZGdHZuSHlYQnZZUW1jMnl5V1RVMExPUUxDX1dHS2pRSTUtLTJXYnE1WHYzMXRx?oc=5)",
+    "[memeburn.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmotdWlXYzdiUUVaeXZQaDJkcVB5bzlfcWROWldtd2JjZXdoeEVVR0U4X3ZyZjR2cElfVXh1dXlhZG84YXlseWRDRmtlY2E2RWZ4Vno5RGp6LTRBbU04bXVDYWprOEJXaVJ1bG9jeFdMSFpmX216N1l6LXQwRW9SYk1uQk4?oc=5)",
+    "[bgr.com](https://news.google.com/rss/articles/CBMidEFVX3lxTFBvS0VvR1ZDTkVfT0otWGhvOUVLVTlEb0VpT1BadE1IelZOcnFTdV8wdkxESy1YZURxSlo2Sk4xQlIzSU9JX19qZXZBWWVoa1E1bWRqOTRpc1AwN2dPcEVZM3A0endEd1J0UHRQRG1yUlZwUlpU?oc=5)"
+  ],
+  "design_plan": "rng=42; hero_math:1120px/2-3 lines; AIDA:attention(hero),interest(context),desire(compare+cache),action(CTA); bento_density:grid-auto-flow:dense verified; label_sweep:all competitors named; button_contrast:black/white pills pass; motion_guarded:gsap try/catch",
+  "generated_at": "2026-07-03T08:22:16.993060+00:00",
+  "headline": "Super vs Gemini \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Gemini",
+    "competitor": "Gemini",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Gemini. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Gemini AI agent",
+      "Gemini AI assistant",
+      "Gemini automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-gemini",
+    "title": "Super vs Gemini"
+  },
+  "summary": "A fair comparison for people evaluating Google Gemini versus Super. Gemini is expanding agentic automation (including Gemini Spark on macOS). Super is purpose\u2011built for repeated computer\u2011use workflows with a reusable computer-use cache that compounds value over time."
+}
